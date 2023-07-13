@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java Abstract Class/Java Abstract Class.iml" filepath="$PROJECT_DIR$/Java Abstract Class/Java Abstract Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Inheritance I/Java Inheritance I.iml" filepath="$PROJECT_DIR$/Java Inheritance I/Java Inheritance I.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hackerrank.iml" filepath="$PROJECT_DIR$/.idea/hackerrank.iml" />
-      <module fileurl="file://$PROJECT_DIR$/oop series/oop series.iml" filepath="$PROJECT_DIR$/oop series/oop series.iml" />
     </modules>
   </component>
 </project>
